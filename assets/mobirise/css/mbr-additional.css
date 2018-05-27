@@ -81,6 +81,13 @@ body {
     line-height: calc( 1.4 * (1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20))));
   }
 }
+
+/* carrossel */
+.custom-img-slide{
+  max-width: 100%;
+  height: auto !important;
+}
+
 /* Buttons */
 .btn {
   font-weight: 500;
